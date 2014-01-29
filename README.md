@@ -22,6 +22,11 @@ However, if you need to debug Couchbase Lite Android or otherwise hack on it, th
 
 * [Download Android Studio](http://developer.android.com/sdk/installing/studio.html) 
 
+  * If you are using the beta2 release or stable branch of Couchbase Lite, use the latest version in the stable channel (currently Android Studio 0.3.X)
+
+  * If you are using the master branch of Couchbase Lite, use the latest version in the canary channel (currently Android Studio 0.4.3)
+
+
 * Under Tools / Android / Android SDK Manager and install "Extras/Google Repository" and "Extras/Android Support Repository" (future versions of Android Studio may make this step unnecessary)
 
 
